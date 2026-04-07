@@ -4,6 +4,9 @@
 - 🌱 I’m currently learning Pyhton
 - ⚡ Fun fact: Formado em Arquitetura e Urbanismo. TCC em Smart Cities e normas ISO.
 
-  ![Eduardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EduardoAPDias&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+<div align="center">
 
+| ![Eduardo's GitHub Stats](https://github-readme-stats-gamma-plum-27.vercel.app/api?username=EduardoAPDias&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true) | ![Top Langs](https://github-readme-stats-gamma-plum-27.vercel.app/api/top-langs/?username=EduardoAPDias&layout=compact&theme=tokyonight&langs_count=6) |
+|---|---|
 
+</div>
