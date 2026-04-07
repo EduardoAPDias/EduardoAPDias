@@ -10,3 +10,5 @@
 |---|---|
 
 </div>
+
+![Snake animation](https://github.com/EduardoAPDias/EduardoAPDias/blob/output/github-contribution-grid-snake.svg)
